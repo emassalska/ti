@@ -30,7 +30,7 @@ Ostateczny termin pull requests z danymi upływa 22.06.2014.
 1. [Dunikowski Jacek](http://jaca22.github.io)
 1. [Falęcki Jacek](http://jfalecki.github.io/TechInter/)
 1. Gontarski Karol
-1. Massalska Emilia
+1. [Massalska Emilia](http://emassalska.github.io/)
 1. Mroczkowski Jacek
 1. [Michalski Mateusz](http://matismatis93.github.io/matmic/)
 1. Mazur Michał
